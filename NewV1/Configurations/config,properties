@@ -1,0 +1,4 @@
+baseURL = https://www.facebook.com/
+email = 8608729533
+password = jamesbond007
+ChromePath = ./drivers\\chromedriver.exe
